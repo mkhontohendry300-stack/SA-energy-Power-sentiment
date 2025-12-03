@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo  
 Access the application here:  
-**https://sa-energy-pulse-f292ad33.base44.app/**
+**[https://sa-energy-pulse-f292ad33.base44.app/](https://sa-energy-pulse-copy-ff75b589.base44.app/)**
 
 ---
 
